@@ -4,6 +4,9 @@ using UnityEngine;
 
 public class MainCharacterMove : MonoBehaviour {
 
+    //variables
+    public float speed = 5f;
+
 	// Use this for initialization
 	void Start () {
 		
